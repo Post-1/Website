@@ -1,6 +1,6 @@
 # Alex Post
 
-## Welcome to my first GitHub Pages!
+## Welcome to my first GitHub Website!
 
 I'm a high school senior involved in my school's practicum for IT. I'm currently in the process of learning more about Git, and using GitHub.
 
