@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Alex Post
 
-You can use the [editor on GitHub](https://github.com/Post-1/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to my first GitHub Pages!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a high school senior involved in my school's practicum for IT. I'm currently in the process of learning more about Git, and using GitHub.
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut posuere aliquet odio, sit amet scelerisque purus ultrices vitae. Nam suscipit, elit quis pulvinar tincidunt, dolor quam commodo risus, eget lacinia lectus augue non ex
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### So what's this website going to be use for?
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. This website will be used to practice my skills at editing and using a GitHub Website. 
+2. As well, it will be used as a testing ground for various experiments involving GitHub.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Post-1/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What is the least spoken language in the world?
+01010011 01101001 01100111 01101110 00100000 01101100 01100001 01101110 01100111 01110101 01100001 01100111 01100101
