@@ -13,8 +13,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut posuere aliquet odio
 ### Summary of My Website:
 
 ```markdown
-This website will be used to practice my skills at editing and using a GitHub Website. As well, it will be used as a testing ground for 
-various experiments involving GitHub. Examples include: inline, block, and other types of html elements.
+This website will be used to practice my skills at editing and using a GitHub Website. As well, it will 
+be used as a testing ground for various experiments involving GitHub. Examples include: inline, block, 
+and other types of html elements.
 ```
 
 
