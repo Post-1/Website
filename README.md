@@ -6,12 +6,14 @@ I'm a high school senior involved in my school's practicum for IT. I'm currently
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut posuere aliquet odio, sit amet scelerisque purus ultrices vitae. Nam suscipit, elit quis pulvinar tincidunt, dolor quam commodo risus, eget lacinia lectus augue non ex
 
+<h1>Block Element Example A</h1><h3>Block Element Example B</h3>
 
-### So what's this website going to be use for?
+<em>Inline Element Example A</em><strong> Inline Element Example B</strong>
+
+### Summary of My Website:
 
 ```markdown
-1. This website will be used to practice my skills at editing and using a GitHub Website. 
-2. As well, it will be used as a testing ground for various experiments involving GitHub.
+This website will be used to practice my skills at editing and using a GitHub Website. As well, it will be used as a testing ground for various experiments involving GitHub. Examples include: inline, block, and other types of html elements.
 ```
 
 
